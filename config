@@ -231,3 +231,7 @@ exec_always {
 
 bindsym $alt+L exec swaylock -i /home/vignesh-22164/Pictures/Background/Aesthetic-Minimalist-4k-Wallpaper-For-Laptop.jpg
 
+
+
+for_window [app_id="obsidian"] floating enable
+
